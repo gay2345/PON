@@ -31,20 +31,25 @@
 .image {
     width: 200px;
     height: 200px;
+    display: flex;
 
 }
 
 .card__title    {
     margin-top: 10px;
+    display: flex;
+
 }
 
 h2  {
     font-size: 20px;
+    display: flex;
 }
 
 p   {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 17px;
+    display: flex;
 }
 
 
